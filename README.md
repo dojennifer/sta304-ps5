@@ -1,4 +1,4 @@
-# sta304-ps5
+# Recovery from COVID-19 in Toronto & the Role of One's Demographics and Environment
 
 The ‘inputs’ folder contains the raw data file used for this paper. The data file is also available through the City of Toronto’s Open Data Portal: COVID-19 Cases in Toronto. 
 
