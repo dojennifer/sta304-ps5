@@ -9,9 +9,7 @@ The "inputs" folder contains the raw data file used for this paper (i.e. contain
 The "scripts" folder contains the R script "plots" used to clean the dataset and produce the plots for the RMarkdown file. Please run this script prior to running the RMarkdown file in order to generate the report. 
 
 ## Suggested steps for recreating this report
-1. Download the raw data file as provided in the "inputs" folder. Alternvatively, ensure any data taken from the City of Toronto's Open Data Portal: COVID-19 Cases in Toronto, corresponds to the dates considered in the paper. 
+1. Download the raw data file as provided in the "inputs" folder. Alternvatively, ensure any data taken from the City of Toronto's Open Data Portal: COVID-19 Cases in Toronto, correspond to the dates considered in the paper. 
 2. Run the data cleaning script that is provided in the "scripts" folder. In order for the scripts to run correctly, ensure that the filepath and file names in your code match with the ones on your system.
 3. Ensure that the cleaned data files from step 2 are placed in the "outputs" folder.
-4. In the "outputs" folder, you will find the 'paper' sub-folder. Run the .Rmd file there to generate the report.
-
-
+4. In the "outputs" folder, you will find the the .Rmd file which should be ran to generate the report ("PS5.Rmd") 
