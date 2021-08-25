@@ -4,7 +4,7 @@ In this paper, I use a logistic regression model to examine the probabilities of
 ## Note on file structure
 The "outputs" folder contains material created including the paper ('Paper.pdf'), RMarkdown file used to generate the paper ('PS5.Rmd'), and the generated images from the RMarkdown file ("figures" folder). 
 
-The "inputs" folder contains the raw data file used for this paper (i.e. contains COVID-19 case data from January 23 to December 28, 2020). The data file is available through the City of Toronto’s Open Data Portal: COVID-19 Cases in Toronto and is updated weekly.
+The "inputs" folder contains the raw data file used for this paper (i.e. contains COVID-19 case data from January 23 to December 28, 2020). This data file is publically available through the City of Toronto’s Open Data Portal: COVID-19 Cases in Toronto and is updated weekly.
 
 The "scripts" folder contains the R script "plots" used to clean the dataset and produce the plots for the RMarkdown file. Please run this script prior to running the RMarkdown file in order to generate the report. 
 
